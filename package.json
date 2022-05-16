@@ -1,0 +1,25 @@
+{
+  "name": "express-middleware-redirect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "middlewareRedirect.js",
+  "type": "module",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "express": "^4.18.1",
+    "should": "^13.2.3",
+    "sinon": "^14.0.0",
+    "sinon-server": "^0.2.0",
+    "sion": "^0.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "jsdoc-to-markdown": "^7.1.1",
+    "mocha": "^10.0.0"
+  }
+}

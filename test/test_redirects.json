@@ -1,0 +1,9 @@
+
+{
+    "/": "/index.html",
+    "/about": "/about.html",
+    "/contact": "/contact.html",
+    "/blog": "/blog.html",
+    "/blog/post-1": "/blog/post-1.html",
+    "/test": "/test.html"
+}
