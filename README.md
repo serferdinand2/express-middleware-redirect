@@ -5,8 +5,7 @@ Redirecting middleware for express.js
 
 ## redirectMiddleware ⇒
 Checks if the original URL is in the redirect data and redirects to the value if it is.
-
-**Kind**: global variable  
+ 
 **Returns**: Function  
 
 | Param | Type | Description |
@@ -15,6 +14,8 @@ Checks if the original URL is in the redirect data and redirects to the value if
 
 **Example**  
 ```js
+import redirectMiddleware from '@serferdinand2/express-middleware-redirect'
+
 app.use(redirectMiddleware('./path/to/redirects.json'));
 ```
 

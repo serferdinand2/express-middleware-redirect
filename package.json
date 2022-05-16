@@ -16,5 +16,14 @@
     "jsdoc-to-markdown": "^7.1.1",
     "mocha": "^10.0.0",
     "sinon": "^14.0.0"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "redirect"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serferdinand2/express-middleware-redirect"
   }
 }
