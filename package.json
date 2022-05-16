@@ -1,6 +1,6 @@
 {
   "name": "@serferdinand2/express-middleware-redirect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks if the original URL is in the redirect data and redirects to the value if it is.",
   "main": "index.js",
   "type": "module",
@@ -9,8 +9,7 @@
   },
   "author": "Ognjen Ugljenovic",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^8.15.0",
     "jsdoc-to-markdown": "^7.1.1",
